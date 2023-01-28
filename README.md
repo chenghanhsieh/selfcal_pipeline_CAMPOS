@@ -1,4 +1,4 @@
-# selfcal_pipeline_CAMPOS
+# CASA Self-calibration pipeline for the CAMPOS disk project
 Last Updated: Jan 28 2023 by Cheng-Han Hsieh (cheng-han.hsieh@yale.edu) All rights reserved by Cheng-Han Hsieh @Yale.
 
 
